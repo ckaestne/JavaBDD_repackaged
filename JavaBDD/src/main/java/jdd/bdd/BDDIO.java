@@ -1,5 +1,5 @@
 
-// XXX: ¨
+// XXX: Â¨
 // BDDIO.load() uses the slow and memory hungry HashMap<Integer,Integer> to map saved against new node IDs :(
 
 package jdd.bdd;

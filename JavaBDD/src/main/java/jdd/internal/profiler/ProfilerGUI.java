@@ -133,9 +133,9 @@ public class ProfilerGUI extends Frame
 		if(diff == 0) str = "no changes";
 		else if(Math.abs(diff) < 10) str = "very small changes";
 		else if(diff > 0) {
-			if(diff < 30) str = "small @#¤&!";
-			else if( diff < 50) str = "medium @#¤&!";
-			else str = "major @#¤&!";
+			if(diff < 30) str = "small @#Â¤&!";
+			else if( diff < 50) str = "medium @#Â¤&!";
+			else str = "major @#Â¤&!";
 		} else {
 			if(diff > -30) str = "small improvements";
 			else if(diff > -50) str = "medium improvements";

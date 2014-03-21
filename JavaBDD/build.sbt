@@ -1,3 +1,5 @@
-javacOptions += "-encoding"
+name := "JavaBDD_repackaged"
 
-javacOptions += "ISO8859-1"
+version := "0.1"
+
+sources in (Compile, doc) ~= (_ filter (_.getName endsWith "...."))

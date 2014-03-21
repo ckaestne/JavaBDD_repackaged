@@ -42,12 +42,12 @@ public class GraphOperation {
 	}
 
 	/**
-	 * <tt>Haj髎's construction</tt>: Let G1 and G2 be already disjoint graphs with edges x1y1<br>
+	 * <tt>Haj贸s's construction</tt>: Let G1 and G2 be already disjoint graphs with edges x1y1<br>
 	 * and x2y2. Remove x1y1 and x2y2, identify x1 and 2 and join y1 and y2 by a new edge.<br>
 	 *<br>
-	 * This is interesting due to the Haj髎 Theorem from 1961:<br><i>
-	 * A graph has chromatic number at least k iff it contains a Haj髎-k-constructible subgraph.<br>
-	 * Every k-ciritical graph is Haj髎-k-constructible
+	 * This is interesting due to the Haj贸s Theorem from 1961:<br><i>
+	 * A graph has chromatic number at least k iff it contains a Haj贸s-k-constructible subgraph.<br>
+	 * Every k-ciritical graph is Haj贸s-k-constructible
 	 * </i><br>
 	 * <br><br>
 	 * (text stolen from Anders Grevette's great B.Sc.thesis at Chalmers).<br>

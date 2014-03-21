@@ -8,7 +8,7 @@ import jdd.util.*;
 
 
 /**
- * Adder.java, converted from BuDDy´s source:
+ * Adder.java, converted from BuDDyÂ´s source:
  * <pre>
  * 	FILE:  adder.cc
  * 	DESCR: BDD implementation of an N bit adder.

@@ -8,7 +8,7 @@ package jdd.util;
  */
 
 
-// "the botten is nådd"-object:
+// "the botten is nÃ¥dd"-object:
 /* package */ class BottomWeightedObject implements WeightedObject {
 	public Object object() { return this; }
 	public double weight() { return Double.NEGATIVE_INFINITY; }

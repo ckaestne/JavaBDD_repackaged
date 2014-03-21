@@ -138,7 +138,7 @@ public class CNF {
 
 	}
 
-	/** this is SATZOO static ordering algorithm (for a DP SAT solver!) by Niklas Eén */
+	/** this is SATZOO static ordering algorithm (for a DP SAT solver!) by Niklas EÃ©n */
 	void SATZOO_order() {
 		// clear activity
 		for(int i = 0; i < num_lits; i++) vars[i].activity = 0;

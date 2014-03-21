@@ -55,7 +55,7 @@ public class ShortestPath {
 	// ---------------------------------------------------------------------------
 
 	/**
-	 * positive weight shortest path แ la Dijkstra
+	 * positive weight shortest path รก la Dijkstra
 	 * <p>Side effect: changes Node.extra1 and Node.extra3
 	 * <p>output: Node.extra3 gives the visiting cost from which a path can be built
 	 *
